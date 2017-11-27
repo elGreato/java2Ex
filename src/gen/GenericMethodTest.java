@@ -1,6 +1,6 @@
 package gen;
 
-/*Java Generic Type
+/*Java Generic Type:   https://www.youtube.com/watch?v=D5HEshszlPE
 
 Java Generic Type Naming convention helps us understanding code easily and having a naming convention is one of the best practices of java programming language. So generics also comes with it’s own naming conventions. Usually type parameter names are single, uppercase letters to make it easily distinguishable from java variables. The most commonly used type parameter names are:
 
